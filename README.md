@@ -1,2 +1,3 @@
-# Deep-Learning---Project2
-Submission for the Deep Learning Project 2
+# Classification of FasionMNIST Dataset
+
+Comparison between a Multi-layered NN and a Convolutional NN.
